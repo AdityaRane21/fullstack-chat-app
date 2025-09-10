@@ -34,3 +34,6 @@ npm run build
 
 shell
 npm start
+
+
+You can try the app on https://fullstack-chat-app-hmgt.onrender.com
